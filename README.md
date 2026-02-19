@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rahufath Shajeeh ✦</h1>
 
 <p align="center">
-IT Undergraduate • Aspiring Software Engineer • Full-Stack Developer
+• Aspiring Software Engineer • Full-Stack Developer
 </p>
 
 ---
